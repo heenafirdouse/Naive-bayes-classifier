@@ -1,3 +1,1 @@
 # Naive-bayes-classifier
-The dataset used in this study was obtained from Kaggle.
-The Rotten Tomatoes Reviews Text dataset offers a wealth of movie reviews labeled as fresh or rotten, making it well-suited for supervised learning tasks like sentiment analysis or classification. With this dataset, it's possible to train and evaluate machine learning models to accurately predict the sentiment of movie reviews. The Naive Bayes assumption of feature independence streamlines probability calculations, making it a practical algorithm for sentiment analysis using this dataset. In summary, the Rotten Tomatoes Reviews Text dataset is a valuable tool for conducting sentiment analysis and exploring different machine learning models for predicting sentiment in movie reviews.
